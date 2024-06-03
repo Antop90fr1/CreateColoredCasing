@@ -1,0 +1,7 @@
+{
+	"parent": "create:block/encased_shaft/item",
+	"textures": {
+		"casing": "createcoloredcasing:block/orange_casing",
+		"opening": "createcoloredcasing:block/orange_gearbox"
+	}
+}

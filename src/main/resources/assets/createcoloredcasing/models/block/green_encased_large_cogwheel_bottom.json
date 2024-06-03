@@ -1,0 +1,10 @@
+{
+  "parent": "create:block/encased_large_cogwheel/block_bottom",
+  "textures": {
+    "1": "createcoloredcasing:block/green_casing_log",
+    "4": "createcoloredcasing:block/green_gearbox",
+    "casing": "createcoloredcasing:block/green_casing",
+    "particle": "createcoloredcasing:block/green_casing",
+    "side": "createcoloredcasing:block/green_encased_cogwheel_side_connected"
+  }
+}

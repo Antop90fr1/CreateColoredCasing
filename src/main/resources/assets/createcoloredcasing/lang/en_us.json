@@ -1,0 +1,27 @@
+{
+  "block.createcoloredcasing.red_casing": "Red Casing",
+  "block.createcoloredcasing.black_casing": "Black Casing",
+  "block.createcoloredcasing.white_casing": "White Casing",
+  "block.createcoloredcasing.gray_casing": "Gray Casing",
+  "block.createcoloredcasing.light_gray_casing": "Light Gray Casing",
+  "block.createcoloredcasing.green_casing": "Green Casing",
+  "block.createcoloredcasing.lime_casing": "Lime Casing",
+  "block.createcoloredcasing.blue_casing": "Blue Casing",
+  "block.createcoloredcasing.pink_casing": "Pink Casing",
+  "block.createcoloredcasing.brown_casing": "Brown Casing",
+  "block.createcoloredcasing.purple_casing": "Purple Casing",
+  "block.createcoloredcasing.light_blue_casing": "Light Blue Casing",
+  "block.createcoloredcasing.orange_casing": "Orange Casing",
+  "block.createcoloredcasing.yellow_casing": "Yellow Casing",
+  "block.createcoloredcasing.cyan_casing": "Cyan Casing",
+  "block.createcoloredcasing.magenta_casing": "Magenta Casing",
+
+  "creativetab.coloredcasing_tab": "Create: Colored Casing",
+
+  "createcoloredcasing.ponder.shaft_colored_casing.header": "Encasing Shafts with Colored Casings",
+  "createcoloredcasing.ponder.shaft_colored_casing.text_1": "Colored Casings can be used to decorate Shafts",
+
+  "createcoloredcasing.ponder.cog_colored_casing.header": "Encasing Cogwheels with Colored Casings",
+  "createcoloredcasing.ponder.cog_colored_casing.text_1": "Colored Casings can be used to decorate Cogwheels"
+
+}

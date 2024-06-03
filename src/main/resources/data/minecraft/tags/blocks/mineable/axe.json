@@ -1,0 +1,84 @@
+{
+  "replace": false,
+  "values": [
+    "createcoloredcasing:red_encased_shaft",
+    "createcoloredcasing:red_encased_cogwheel",
+    "createcoloredcasing:red_encased_large_cogwheel",
+    "createcoloredcasing:red_casing",
+
+    "createcoloredcasing:black_encased_shaft",
+    "createcoloredcasing:black_encased_cogwheel",
+    "createcoloredcasing:black_encased_large_cogwheel",
+    "createcoloredcasing:black_casing",
+
+    "createcoloredcasing:white_encased_shaft",
+    "createcoloredcasing:white_encased_cogwheel",
+    "createcoloredcasing:white_encased_large_cogwheel",
+    "createcoloredcasing:white_casing",
+
+    "createcoloredcasing:gray_encased_shaft",
+    "createcoloredcasing:gray_encased_cogwheel",
+    "createcoloredcasing:gray_encased_large_cogwheel",
+    "createcoloredcasing:gray_casing",
+
+    "createcoloredcasing:light_gray_encased_shaft",
+    "createcoloredcasing:light_gray_encased_cogwheel",
+    "createcoloredcasing:light_gray_encased_large_cogwheel",
+    "createcoloredcasing:light_gray_casing",
+
+    "createcoloredcasing:orange_encased_shaft",
+    "createcoloredcasing:orange_encased_cogwheel",
+    "createcoloredcasing:orange_encased_large_cogwheel",
+    "createcoloredcasing:orange_casing",
+
+    "createcoloredcasing:brown_encased_shaft",
+    "createcoloredcasing:brown_encased_cogwheel",
+    "createcoloredcasing:brown_encased_large_cogwheel",
+    "createcoloredcasing:brown_casing",
+
+    "createcoloredcasing:blue_encased_shaft",
+    "createcoloredcasing:blue_encased_cogwheel",
+    "createcoloredcasing:blue_encased_large_cogwheel",
+    "createcoloredcasing:blue_casing",
+
+    "createcoloredcasing:light_blue_encased_shaft",
+    "createcoloredcasing:light_blue_encased_cogwheel",
+    "createcoloredcasing:light_blue_encased_large_cogwheel",
+    "createcoloredcasing:light_blue_casing",
+
+    "createcoloredcasing:yellow_encased_shaft",
+    "createcoloredcasing:yellow_encased_cogwheel",
+    "createcoloredcasing:yellow_encased_large_cogwheel",
+    "createcoloredcasing:yellow_casing",
+
+    "createcoloredcasing:pink_encased_shaft",
+    "createcoloredcasing:pink_encased_cogwheel",
+    "createcoloredcasing:pink_encased_large_cogwheel",
+    "createcoloredcasing:pink_casing",
+
+    "createcoloredcasing:magenta_encased_shaft",
+    "createcoloredcasing:magenta_encased_cogwheel",
+    "createcoloredcasing:magenta_encased_large_cogwheel",
+    "createcoloredcasing:magenta_casing",
+
+    "createcoloredcasing:green_encased_shaft",
+    "createcoloredcasing:green_encased_cogwheel",
+    "createcoloredcasing:green_encased_large_cogwheel",
+    "createcoloredcasing:green_casing",
+
+    "createcoloredcasing:lime_encased_shaft",
+    "createcoloredcasing:lime_encased_cogwheel",
+    "createcoloredcasing:lime_encased_large_cogwheel",
+    "createcoloredcasing:lime_casing",
+
+    "createcoloredcasing:purple_encased_shaft",
+    "createcoloredcasing:purple_encased_cogwheel",
+    "createcoloredcasing:purple_encased_large_cogwheel",
+    "createcoloredcasing:purple_casing",
+
+    "createcoloredcasing:cyan_encased_shaft",
+    "createcoloredcasing:cyan_encased_cogwheel",
+    "createcoloredcasing:cyan_encased_large_cogwheel",
+    "createcoloredcasing:cyan_casing"
+  ]
+}

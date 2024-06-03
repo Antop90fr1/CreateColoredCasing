@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "createcoloredcasing:red_casing",
+    "createcoloredcasing:white_casing",
+    "createcoloredcasing:black_casing",
+    "createcoloredcasing:gray_casing",
+    "createcoloredcasing:light_gray_casing",
+    "createcoloredcasing:blue_casing",
+    "createcoloredcasing:light_blue_casing",
+    "createcoloredcasing:yellow_casing",
+    "createcoloredcasing:orange_casing",
+    "createcoloredcasing:green_casing",
+    "createcoloredcasing:lime_casing",
+    "createcoloredcasing:purple_casing",
+    "createcoloredcasing:pink_casing",
+    "createcoloredcasing:magenta_casing",
+    "createcoloredcasing:brown_casing",
+    "createcoloredcasing:cyan_casing"
+  ]
+}

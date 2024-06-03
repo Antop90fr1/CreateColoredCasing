@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createcoloredcasing:block/red_casing"
+    }
+  }
+}
