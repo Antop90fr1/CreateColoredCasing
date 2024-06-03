@@ -13,12 +13,7 @@ import com.tterrag.registrate.util.entry.BlockEntry;
 import net.antopfr.createcoloredcasing.CCCreativeTab;
 import net.antopfr.createcoloredcasing.CCSpriteShifts;
 import net.antopfr.createcoloredcasing.CreateColoredCasing;
-import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.DyeColor;
-import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.material.MapColor;
-
-import javax.annotation.Nonnull;
 
 import static com.simibubi.create.foundation.data.TagGen.axeOrPickaxe;
 
