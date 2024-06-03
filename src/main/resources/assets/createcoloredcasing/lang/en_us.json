@@ -21,7 +21,9 @@
   "createcoloredcasing.ponder.shaft_colored_casing.header": "Encasing Shafts with Colored Casings",
   "createcoloredcasing.ponder.shaft_colored_casing.text_1": "Colored Casings can be used to decorate Shafts",
 
-  "createcoloredcasing.ponder.cog_colored_casing.header": "Encasing Cogwheels with Colored Casings",
-  "createcoloredcasing.ponder.cog_colored_casing.text_1": "Colored Casings can be used to decorate Cogwheels"
+  "createcoloredcasing.ponder.cogwheel_colored_casing.header": "Encasing Cogwheels with Colored Casings",
+  "createcoloredcasing.ponder.cogwheel_colored_casing.text_1": "Colored Casings can be used to decorate Cogwheels",
+  "createcoloredcasing.ponder.cogwheel_colored_casing.text_2": "Components added after encasing will not connect to the shaft outputs",
+  "createcoloredcasing.ponder.cogwheel_colored_casing.text_3": "The Wrench can be used to toggle connections"
 
 }

@@ -59,7 +59,7 @@ public class ColoredCasingEncasingPonder {
     }
 
     public static void coloredCasingCogEncasing(SceneBuilder scene, SceneBuildingUtil util) {
-        scene.title("cogwheel_casing", "Encasing Cogwheels with Colored Casings");
+        scene.title("cogwheel_colored_casing", "Encasing Cogwheels with Colored Casings");
         scene.configureBasePlate(0, 0, 5);
         scene.world.showSection(util.select.layer(0), Direction.UP);
 
